@@ -1,6 +1,6 @@
 # Arawan_Phylogeny
 Repository accompanying the "An Overview and Bayesian phylogenetic study of the Arawan language family" paper.  
-The data is taken from Gerardi et al. (2022) and can be found [here](https://github.com/tupian-language-resources/kahd).
+The data is taken from Gerardi et al. (2022) and can be found [here](https://github.com/tupian-language-resources/kahd). This also has the expert cognacy judgements used to assess the quality of the automated cognate detection described in the paper.
 
 The [Trees](/Trees/) folder contains the settings and the output of tree runs conducted.  
 
