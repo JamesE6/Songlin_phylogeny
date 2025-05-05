@@ -1,10 +1,10 @@
 # Arawan_Phylogeny
-Repository accompanying the "Bayesian phylogenetic study of the Arawan language family" paper.  
+Repository accompanying the "Bayesian phylogenetic study of the Arawan language family" paper (Tresoldi et al., forthcoming).  
 The data is taken from Gerardi et al. (2022) and can be found [here](https://github.com/tupian-language-resources/kahd). This also has the expert cognacy judgements used to assess the quality of the automated cognate detection described in the paper.
 
 The [Trees](/Trees/) folder contains the settings and the output of tree runs conducted. [data](/data/) contains statistics on both datasets used in the study (FULL and REDUCED). The underlying datasets can be found in [raw](/raw/). [etc](/etc/) contains the restrictions on doculects and concepts used in the build_nexus.py script.
 
-
+[![DOI](https://zenodo.org/badge/962514145.svg)](https://zenodo.org/badge/latestdoi/962514145)
 
 ## Generating Nexus files
 
@@ -18,4 +18,4 @@ python .\build_nexus.py -z -l DOCULECT -d .\etc\arawan.txt -p .\etc\concepts.txt
 
 ## Sources
 Gerardi, F.F., Aragon, C.C. and Reichert, S. (2022) ‘KAHD: Katukinan-Arawan-Harakmbut Database (Pre-release)’, Journal of Open Humanities Data, 8(0), p. 18. Available at: https://doi.org/10.5334/johd.80.
-
+Tresoldi, T., Gerardi, F., Vogel, A., O. de Carvalho, F., Wientzek, T., & Gregorio de Souza, J. (forthcoming). Bayesian Phylogenetic Study of the Arawan Language Family.
