@@ -112,10 +112,19 @@ def read_raw_data(args: argparse.Namespace) -> List[Dict[str, str]]:
     if not os.path.isfile(args.input):
         raise FileNotFoundError(f"Input file {args.input} not found.")
 
+    # Determine delimiter based on file extension
+    file_ext = os.path.splitext(args.input)[1].lower()
     with open(args.input, encoding="utf-8") as handler:
-        dialect = csv.Sniffer().sniff(handler.read(1024))
-        handler.seek(0)
-        reader = csv.DictReader(handler, dialect=dialect)
+        if file_ext == ".tsv":
+            reader = csv.DictReader(handler, delimiter="\t")
+        else:
+            sample = handler.read(1024)
+            handler.seek(0)
+            try:
+                dialect = csv.Sniffer().sniff(sample)
+            except csv.Error:
+                dialect = csv.excel
+            reader = csv.DictReader(handler, dialect=dialect)
         data = list(reader)
 
     # Remove EDICTOR metadata, if any
