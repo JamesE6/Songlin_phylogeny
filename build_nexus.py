@@ -560,7 +560,7 @@ def main(args):
 
     # Build and write NEXUS source
     nexus = build_nexus(entries, args)
-    nexus_file = BASE_PATH / "data" / f"arawan.{args.output}.nex"
+    nexus_file = BASE_PATH / "data" / f"sinotibetan.{args.output}.nex"
     if Path(nexus_file).is_file() and not args.overwrite:
         raise ValueError(
             f"Output file `{args.output}` already exists. Use `--overwrite` if you are sure."
