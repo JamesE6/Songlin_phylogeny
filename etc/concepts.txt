@@ -1,250 +1,250 @@
-ABOVE
-ALL
-BAD
-BELOW, UNDER
-BIG
-BLACK
-COLD (OF TEMPERATURE)
-CORRECT (RIGHT)
-DARK
-DIRTY
-DRY
-EARLY
-EIGHT
-FAR
-FIREWOOD
-FIVE
-FOUR
-FULL
-GOOD
-GREEN
-HARD
-HE OR SHE [THIRD PERSON SINGULAR]
-HEAVY
-HERE
-HIGH / TALL
-HORIZONTAL
-HOT
-HUNDRED
-I [FIRST PERSON SINGULAR]
-INSIDE
-KNIFE
-LATE
-LEFT
-LIGHT (OF WEIGHT)
-LONG
-MANY
-MIDDLE
-MORNING
-NARROW
-NEAR
-NEW
-NINE
-NOON
-OLD (OF PERSON)
-ONE
-OUTSIDE
-RED
-RIGHT
-ROUND
-SALTY
-SEVEN
-SHARP
-SHORT
-SHY
-SIX
-SMALL
-SMOOTH
-SOFT
-STRAIGHT
-TEN
-THAT
-THE ANT
-THE ARMPIT
-THE BAMBOO
-THE BARLEY (TIBETAN OR HIGHLAND)
-THE BELLY
-THE BIRD
-THE BLOOD
-THE BODY HAIR (HAIR OR FUR)
-THE BONE
-THE BRANCH
-THE BREAST (FEMALE)
-THE CHILD (YOUNG HUMAN)
-THE CLOUD
-THE DAUGHTER
-THE DEW
-THE DOG
-THE DREAM
-THE DUST
-THE EAR
-THE EARTH (SOIL)
-THE EARTHWORM
-THE EGG
-THE EYE
-THE FATHER
-THE FEATHER
-THE FIRE
-THE FISH
-THE FLEA
-THE FLOWER
-THE FOG
-THE FOOT
-THE FOREST
-THE FOX
-THE FROG
-THE FRONT (FRONT SIDE)
-THE FROST
-THE FRUIT
-THE GOAT
-THE GRASS
-THE HAIL
-THE HAIR (OF THE HEAD)
-THE HAND
-THE HEAD
-THE HEART
-THE HOOF
-THE HORN (KERATINIZED SKIN)
-THE HORSE
-THE HOUSE
-THE HUSBAND
-THE ICE
-THE KNEE
-THE LAKE
-THE LEAF
-THE LIP (THE LIPS)
-THE LIVER
-THE LOUSE
-THE LUNG
-THE MAN (MALE HUMAN)
-THE MEAT
-THE MOON
-THE MOSQUITO
-THE MOTHER
-THE MOUNTAIN
-THE MOUSE OR RAT
-THE MOUTH
-THE MUD
-THE NAIL (FINGERNAIL OR CLAW)
-THE NAME
-THE NECK
-THE NEEDLE (FOR SEWING)
-THE NIT
-THE NOSE
-THE OTTER
-THE PIG
-THE RAIN
-THE RAINBOW
-THE RICE PLANT
-THE RIVER
-THE ROAD
-THE ROOT
-THE ROPE
-THE SALT
-THE SAND
-THE SEA
-THE SEED
-THE SHEEP
-THE SHIT
-THE SHOULDER
-THE SICKLE
-THE SKIN
-THE SKY
-THE SMOKE
-THE SNAKE
-THE SNOW
-THE SON
-THE SPARROW
-THE SPIDER
-THE STAR
-THE STICK
-THE STONE (A PIECE OF)
-THE SUN
-THE TAIL
-THE THIGH
-THE THUNDER
-THE TIGER
-THE TONGUE
-THE TOOTH (FRONT)
-THE TREE
-THE WATER
-THE WHEAT
-THE WIFE
-THE WIND
-THE WING
-THE WOLF
-THE WOMAN
-THE WOOD (MATERIAL)
-THE YEAR
-THERE
-THICK
-THIN (OBJECT)
-THIS
-THOU [SECOND PERSON SINGULAR]
-THREE
-TO BE ALIVE
-TO BITE
-TO BLOW (OF WIND)
-TO BURN [INTRANSITIVE]
-TO BUY
-TO CHEW
-TO COME
-TO COUNT
-TO CRY (WEEP)
-TO DIE
-TO DIG
-TO DRINK
-TO EAT
-TO FIGHT
-TO FLOAT
-TO FLOW
-TO FLY (MOVE THROUGH AIR)
-TO FORGET
-TO GIVE
-TO HEAR
-TO HIDE (CONCEAL)
-TO HOLD
-TO HUNT
-TO KILL
-TO KNEAD
-TO KNOW (SOMETHING)
-TO LAUGH
-TO LEARN
-TO LICK
-TO LIE DOWN
-TO MARRY (A MAN MARRIES A WOMAN)
-TO PLANT (VEGETALS, RICE)
-TO PLAY
-TO PULL
-TO PUSH
-TO RESIDE (LIVE)
-TO RUN
-TO SCRATCH
-TO SEE
-TO SHOOT (AN ARROW)
-TO SING
-TO SLEEP
-TO SMELL (PERCEIVE ODOR) [TRANSITIVE]
-TO SOW (BROADCAST, SCATTER SEEDS)
-TO SPIT
-TO STAND
-TO STEAL
-TO THINK (REFLECT)
-TO THROW
-TO VOMIT
-TO WALK
-TO WIPE
-TODAY
-TOMORROW
-TWENTY
-TWO
-WE [FIRST PERSON PLURAL INCLUSIVE]
-WET
-WHAT
-WHERE
-WHITE
-WHO
-YELLOW
-YESTERDAY
-YOU [SECOND PERSON PLURAL]
-YOUNG
+above
+all
+bad
+below, under
+big
+black
+cold (of temperature)
+correct (right)
+dark
+dirty
+dry
+early
+eight
+far
+firewood
+five
+four
+full
+good
+green
+hard
+he or she [third person singular]
+heavy
+here
+high / tall
+horizontal
+hot
+hundred
+i [first person singular]
+inside
+knife
+late
+left
+light (of weight)
+long
+many
+middle
+morning
+narrow
+near
+new
+nine
+noon
+old (of person)
+one
+outside
+red
+right
+round
+salty
+seven
+sharp
+short
+shy
+six
+small
+smooth
+soft
+straight
+ten
+that
+the ant
+the armpit
+the bamboo
+the barley (tibetan or highland)
+the belly
+the bird
+the blood
+the body hair (hair or fur)
+the bone
+the branch
+the breast (female)
+the child (young human)
+the cloud
+the daughter
+the dew
+the dog
+the dream
+the dust
+the ear
+the earth (soil)
+the earthworm
+the egg
+the eye
+the father
+the feather
+the fire
+the fish
+the flea
+the flower
+the fog
+the foot
+the forest
+the fox
+the frog
+the front (front side)
+the frost
+the fruit
+the goat
+the grass
+the hail
+the hair (of the head)
+the hand
+the head
+the heart
+the hoof
+the horn (keratinized skin)
+the horse
+the house
+the husband
+the ice
+the knee
+the lake
+the leaf
+the lip (the lips)
+the liver
+the louse
+the lung
+the man (male human)
+the meat
+the moon
+the mosquito
+the mother
+the mountain
+the mouse or rat
+the mouth
+the mud
+the nail (fingernail or claw)
+the name
+the neck
+the needle (for sewing)
+the nit
+the nose
+the otter
+the pig
+the rain
+the rainbow
+the rice plant
+the river
+the road
+the root
+the rope
+the salt
+the sand
+the sea
+the seed
+the sheep
+the shit
+the shoulder
+the sickle
+the skin
+the sky
+the smoke
+the snake
+the snow
+the son
+the sparrow
+the spider
+the star
+the stick
+the stone (a piece of)
+the sun
+the tail
+the thigh
+the thunder
+the tiger
+the tongue
+the tooth (front)
+the tree
+the water
+the wheat
+the wife
+the wind
+the wing
+the wolf
+the woman
+the wood (material)
+the year
+there
+thick
+thin (object)
+this
+thou [second person singular]
+three
+to be alive
+to bite
+to blow (of wind)
+to burn [intransitive]
+to buy
+to chew
+to come
+to count
+to cry (weep)
+to die
+to dig
+to drink
+to eat
+to fight
+to float
+to flow
+to fly (move through air)
+to forget
+to give
+to hear
+to hide (conceal)
+to hold
+to hunt
+to kill
+to knead
+to know (something)
+to laugh
+to learn
+to lick
+to lie down
+to marry (a man marries a woman)
+to plant (vegetals, rice)
+to play
+to pull
+to push
+to reside (live)
+to run
+to scratch
+to see
+to shoot (an arrow)
+to sing
+to sleep
+to smell (perceive odor) [transitive]
+to sow (broadcast, scatter seeds)
+to spit
+to stand
+to steal
+to think (reflect)
+to throw
+to vomit
+to walk
+to wipe
+today
+tomorrow
+twenty
+two
+we [first person plural inclusive]
+wet
+what
+where
+white
+who
+yellow
+yesterday
+you [second person plural]
+young
